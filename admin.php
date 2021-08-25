@@ -1,5 +1,5 @@
 <?php
-function Zovo_woosms_scripts() {
+function zovo_woosms_scripts() {
     wp_enqueue_style( 'notify_woosms_style',  plugin_dir_url( __FILE__ ) . "/css/style.css");
 }
 
@@ -127,7 +127,7 @@ function zovo_woosms_settings_init(  ) {
 	add_settings_field(
 		'zovo_woosms_template_order_completed',
 		__( 'SMS Template:', 'zovo-woosms' ),
-		'notify_woosms_template_order_completed_render',
+		'zovo_woosms_template_order_completed_render',
 		'pluginPage',
 		'zovo_woosms_pluginPage_section'
 	);
