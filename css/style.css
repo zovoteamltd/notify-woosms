@@ -1,4 +1,4 @@
-.notify_woosms_settings_page {
+.zovo_woosms_settings_page {
     width: 100%;
     max-width: 800px;
     background: #fff;
@@ -8,28 +8,28 @@
     overflow: hidden;
 }
 
-.notify_woosms_settings_page_header {
+.zovo_woosms_settings_page_header {
     background: #607D8B;
     padding: 20px 25px;
     overflow: hidden;
 }
 
-.notify_woosms_settings_page_header_logo {
+.zovo_woosms_settings_page_header_logo {
     width: 20%;
     float: left;
 }
 
-.notify_woosms_settings_page_header_logo img {
+.zovo_woosms_settings_page_header_logo img {
     width: 100%;
     height: auto;
 }
 
-.notify_woosms_settings_page_header_info {
+.zovo_woosms_settings_page_header_info {
     text-align: center;
     padding: 20px 0;
 }
 
-.notify_woosms_settings_page_header_info h2 {
+.zovo_woosms_settings_page_header_info h2 {
     font-weight: bold;
     text-transform: uppercase;
     font-size: 24px;
@@ -38,44 +38,44 @@
     margin-top: 0;
 }
 
-.notify_woosms_settings_page_header_info p {
+.zovo_woosms_settings_page_header_info p {
     margin: 0;
     text-transform: uppercase;
     color: #fff;
 }
 
-.notify_woosms_settings_page_header_info p a {
+.zovo_woosms_settings_page_header_info p a {
     font-weight: bold;
     color: #fff;
     text-transform: uppercase;
     text-decoration: underline;
 }
-.notify_woosms_settings_page_body {
+.zovo_woosms_settings_page_body {
     padding: 25px 25px;
 }
 
-.notify_woosms_settings_page_body h2 {
+.zovo_woosms_settings_page_body h2 {
     margin-top: 0;
     margin-bottom: 5px;
     text-transform: uppercase;
 }
 
-.notify_woosms_settings_page_body table {
+.zovo_woosms_settings_page_body table {
     margin-bottom: 30px;
 }
 
-.notify_woosms_settings_page_body .form-table input[type=text], .notify_woosms_settings_page_body .form-table input[type=password], .notify_woosms_settings_page_body .form-table textarea {
+.zovo_woosms_settings_page_body .form-table input[type=text], .zovo_woosms_settings_page_body .form-table input[type=password], .zovo_woosms_settings_page_body .form-table textarea {
     width: 100%;
 }
 
-.notify_woosms_settings_page_body p.submit {
+.zovo_woosms_settings_page_body p.submit {
     padding: 0 10px;
     margin-top: 0;
     margin-bottom: 20px;
     text-align: right;
 }
 
-.notify_woosms_settings_page_body p.submit input {
+.zovo_woosms_settings_page_body p.submit input {
     font-weight: bold;
     text-transform: uppercase;
     padding: 10px 40px !important;
@@ -84,35 +84,35 @@
     border-color: #00374c !important;
 }
 
-.notify_woosms_settings_page_body p.submit input:hover {
+.zovo_woosms_settings_page_body p.submit input:hover {
     background: #024c68 !important;
     border-color: #024c68 !important;
 }
 
-.notify_woosms_settings_page_footer {
+.zovo_woosms_settings_page_footer {
     background: #009688;
     padding: 20px 25px;
     text-align: center;
     text-transform: uppercase;
 }
 
-.notify_woosms_settings_page_footer h4 {
+.zovo_woosms_settings_page_footer h4 {
     margin: 0 0 5px 0;
     font-weight: normal;
 }
 
-.notify_woosms_settings_page_footer p {
+.zovo_woosms_settings_page_footer p {
     margin: 0;
     font-weight: bold;
     font-size: 16px;
 }
 
-.notify_woosms_settings_page_footer p a {
+.zovo_woosms_settings_page_footer p a {
     color: #3d3d3d;
     text-decoration: none;
 }
 
-.notify_woosms_settings_page_body p span {
+.zovo_woosms_settings_page_body p span {
     background: #00BCD4;
     display: inline-block;
     padding: 6px 10px;
