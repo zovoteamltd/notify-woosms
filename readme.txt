@@ -1,4 +1,4 @@
-=== Notify WooSMS ===
+=== zovo WooSMS ===
 Contributors: solaymanhaider
 Stable tag: trunk
 Tags: sms, woocommerce, woosms, notify, bangladesh, dianahost, dianahost sms,zovogees
