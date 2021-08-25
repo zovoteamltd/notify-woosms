@@ -293,8 +293,8 @@ function zovo_woosms_options_page(  ) {
 					</form>
 				</div>
 				<div class="zovo_woosms_settings_page_footer">
-					<h4><strong><?php echo __("Please Note:</strong> This is a  plugin.<br>This plugin is  managed by SMS providers.");?></h4>
-					<p>Developed by: <a href="www.zovogeeks,com" target="_blank"><?php echo __("Zovo Geeks");?></a></p>
+					<h4><strong><?php echo __("Please Note:</strong> This is a thirpary plugin.<br>This plugin is managed by SMS providers.");?></h4>
+					<p>Developed by: <a href="https://github.com/solaymanhaider" target="_blank"><?php echo __(" solayman haider");?></a></p>
 				</div>
 			</div>
 		</div>
