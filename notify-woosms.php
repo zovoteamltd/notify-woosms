@@ -7,7 +7,7 @@
 Plugin Name: zovo WooSMS
 Plugin URI: www.zovogeeks.com
 Description: WooCommerce order status sms notifications plugin for Bangladeshi SMS service providers.
-Author: solayma nhaider
+Author: solayman haider
 Version: 1.0
 Author URI: https://github.com/solaymanhaider
 License: GPLv2 or later
