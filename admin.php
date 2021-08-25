@@ -163,7 +163,7 @@ function zovo_woosms_api_key_render(  ) {
 
 	$options = get_option( 'zovo_woosms_settings' );
 	?>
-	<input type='text' name='zovo_woosms_settings[notifyzovo_woosms_api_key]' value='<?php echo $options['zovo_woosms_api_key']; ?>'>
+	<input type='text' name='zovo_woosms_settings[zovo_woosms_api_key]' value='<?php echo $options['zovo_woosms_api_key']; ?>'>
   <p><i>If you use API KEY, You don't have to enter user name and password.</i></p>
 	<?php
 
@@ -267,7 +267,7 @@ function zovo_woosms_settings_section_callback(  ) {
 
 function zovo_woosms_settings_api_section_callback(  ) {
 
-	echo __( 'Please enter your SMS API information of zovo.', 'zovo-woosms' );
+	echo __( 'Please enter your SMS API information of zovo geeks.', 'zovo-woosms' );
 
 }
 
