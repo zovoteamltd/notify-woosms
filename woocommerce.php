@@ -13,7 +13,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 		$smsbody = str_replace("{{ordernumber}}", $order_id, $smsbody);
 		$smsbody = str_replace("{{customername}}", $order->get_billing_first_name(), $smsbody);
 		if ($options['zovo_woosms_enable_sms'] == 1 && $options['zovo_woosms_check_order_placed'] == 1) {
-			notify_woosms_send_sms($customerphonenumber, $smsbody);
+			zovo_woosms_send_sms($customerphonenumber, $smsbody);
 		}
 	};
 	add_action( 'woocommerce_new_order', 'zovo_woosms_action_woocommerce_new_order', 10, 3 );
@@ -41,7 +41,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 		$smsbody = str_replace("{{ordernumber}}", $order_id, $smsbody);
 		$smsbody = str_replace("{{customername}}", $order->get_billing_first_name(), $smsbody);
 		if ($options['zovo_woosms_enable_sms'] == 1 && $options['notify_woosms_check_order_completed'] == 1) {
-			notify_woosms_send_sms($customerphonenumber, $smsbody);
+			zovo_woosms_send_sms($customerphonenumber, $smsbody);
 		}
 	};
 	add_action( 'woocommerce_order_status_completed', 'zovo_woosms_action_woocommerce_order_completed', 10, 3 );
