@@ -121,7 +121,7 @@ function zovo_woosms_settings_init(  ) {
 		__( 'Order Complete:', 'zovo-woosms' ),
 		'zovo_woosms_check_order_completed_render',
 		'pluginPage',
-		'notifyzovo_woosms_pluginPage_section'
+		'zovo_woosms_pluginPage_section'
 	);
 
 	add_settings_field(
