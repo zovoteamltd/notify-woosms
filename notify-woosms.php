@@ -1,15 +1,15 @@
 <?php
 /**
- * @package notify_woosms
- * @version 2.0
+ * @package zovo_woosms
+ * @version 1.0
  */
 /*
-Plugin Name: Notify WooSMS
-Plugin URI: https://wordpress.org/plugins/notify-woosms/
+Plugin Name: zovo WooSMS
+Plugin URI: www.zovogeeks.com
 Description: WooCommerce order status sms notifications plugin for Bangladeshi SMS service providers.
-Author: Solayman Haider
-Version: 2.0
-Author URI: https://solaymanhaider.com/
+Author: Zovo Geeks
+Version: 1.0
+Author URI: www.zovogeeks.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
