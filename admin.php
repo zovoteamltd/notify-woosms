@@ -1,9 +1,9 @@
 <?php
 function zovo_woosms_scripts() {
-    wp_enqueue_style( 'notify_woosms_style',  plugin_dir_url( __FILE__ ) . "/css/style.css");
+    wp_enqueue_style( 'zovo_woosms_style',  plugin_dir_url( __FILE__ ) . "/css/style.css");
 }
 
-add_action( 'admin_print_styles', 'Zovo_woosms_scripts' );
+add_action( 'admin_print_styles', 'zovo_woosms_scripts' );
 
 add_action( 'admin_menu', 'zovo_woosms_add_admin_menu' );
 add_action( 'admin_init', 'zovo_woosms_settings_init' );
