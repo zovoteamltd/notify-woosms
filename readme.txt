@@ -1,7 +1,7 @@
 === Notify WooSMS ===
 Contributors: solaymanhaider
 Stable tag: trunk
-Tags: sms, woocommerce, woosms, notify, bangladesh, dianahost, dianahost sms
+Tags: sms, woocommerce, woosms, notify, bangladesh, dianahost, dianahost sms,zovogees
 Requires at least: 4.6
 Tested up to: 5.4
 Requires PHP: 5.2.4
