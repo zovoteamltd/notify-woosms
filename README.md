@@ -2,11 +2,11 @@
 
 WooCommerce order status sms notifications plugin for Bangladeshi SMS service providers.
 
-[Download From WordPress Directory](https://wordpress.org/plugins/notify-woosms/)
+[Download From zovogeeks Directory](www.zovogeeks.com)
 
 ## Installation
 
-Install “Notify WooSMS” just as you would any other WordPress Plugin.
+Install “zovo WooSMS” just as you would any other WordPress Plugin.
 
 Automatically via WordPress Admin Area:
 
